@@ -22,6 +22,6 @@ export default function BlogPostItemContent({children, className}) {
   );
 }
 
-let tweeterPage = "Neutron_org";
+let tweeterPage = "domakyrylo";
 
 

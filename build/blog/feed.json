@@ -5,20 +5,11 @@
     "description": "Doma🏠Nodes Blog",
     "items": [
         {
-            "id": "AssetMantle",
-            "content_html": "<p>Experience the first NFT marketplace\nwith blockchain-based identity</p><div><a class=\"twitter-timeline\" href=\"https://twitter.com/Neutron_org\" data-widget-id=\"TLContent\" data-chrome=\"\">Tweets by @Neutron_org</a></div>",
-            "url": "https://domanodes.com/blog/AssetMantle",
-            "title": "AssetMantle",
-            "summary": "Experience the first NFT marketplace",
-            "date_modified": "2022-12-02T18:59:52.000Z",
-            "tags": []
-        },
-        {
-            "id": "Neutron_org",
-            "content_html": "<p>Smart Contract platform secured\nby Cosmos Hub</p><div><a class=\"twitter-timeline\" href=\"https://twitter.com/Neutron_org\" data-widget-id=\"TLContent\" data-chrome=\"\">Tweets by @Neutron_org</a></div>",
-            "url": "https://domanodes.com/blog/Neutron_org",
-            "title": "Neutron",
-            "summary": "Smart Contract platform secured",
+            "id": "SomeBlog",
+            "content_html": "<p>MY TWEETER</p><div><a class=\"twitter-timeline\" href=\"https://twitter.com/domakyrylo\" data-widget-id=\"TLContent\" data-chrome=\"\">Tweets by @domakyrylo</a></div>",
+            "url": "https://domanodes.com/blog/SomeBlog",
+            "title": "SomeBlog",
+            "summary": "MY TWEETER",
             "date_modified": "2022-12-02T18:59:52.000Z",
             "tags": []
         }

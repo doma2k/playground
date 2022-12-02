@@ -9,22 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[AssetMantle]]></title>
-            <link>https://domanodes.com/blog/AssetMantle</link>
-            <guid>AssetMantle</guid>
+            <title><![CDATA[SomeBlog]]></title>
+            <link>https://domanodes.com/blog/SomeBlog</link>
+            <guid>SomeBlog</guid>
             <pubDate>Fri, 02 Dec 2022 18:59:52 GMT</pubDate>
-            <description><![CDATA[Experience the first NFT marketplace]]></description>
-            <content:encoded><![CDATA[<p>Experience the first NFT marketplace
-with blockchain-based identity</p><div><a class="twitter-timeline" href="https://twitter.com/Neutron_org" data-widget-id="TLContent" data-chrome="">Tweets by @Neutron_org</a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Neutron]]></title>
-            <link>https://domanodes.com/blog/Neutron_org</link>
-            <guid>Neutron_org</guid>
-            <pubDate>Fri, 02 Dec 2022 18:59:52 GMT</pubDate>
-            <description><![CDATA[Smart Contract platform secured]]></description>
-            <content:encoded><![CDATA[<p>Smart Contract platform secured
-by Cosmos Hub</p><div><a class="twitter-timeline" href="https://twitter.com/Neutron_org" data-widget-id="TLContent" data-chrome="">Tweets by @Neutron_org</a></div>]]></content:encoded>
+            <description><![CDATA[MY TWEETER]]></description>
+            <content:encoded><![CDATA[<p>MY TWEETER</p><div><a class="twitter-timeline" href="https://twitter.com/domakyrylo" data-widget-id="TLContent" data-chrome="">Tweets by @domakyrylo</a></div>]]></content:encoded>
         </item>
     </channel>
 </rss>

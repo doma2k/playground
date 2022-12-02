@@ -5,8 +5,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
-import TwitterTimeline from "react-twitter-embedded-timeline";
-
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -31,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      description="Web3 Infrastructure and Development">
+      description="Playground for fun">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

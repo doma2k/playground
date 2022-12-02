@@ -8,21 +8,11 @@
     <subtitle>Doma🏠Nodes Blog</subtitle>
     <icon>https://domanodes.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[AssetMantle]]></title>
-        <id>AssetMantle</id>
-        <link href="https://domanodes.com/blog/AssetMantle"/>
+        <title type="html"><![CDATA[SomeBlog]]></title>
+        <id>SomeBlog</id>
+        <link href="https://domanodes.com/blog/SomeBlog"/>
         <updated>2022-12-02T18:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Experience the first NFT marketplace]]></summary>
-        <content type="html"><![CDATA[<p>Experience the first NFT marketplace
-with blockchain-based identity</p><div><a class="twitter-timeline" href="https://twitter.com/Neutron_org" data-widget-id="TLContent" data-chrome="">Tweets by @Neutron_org</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neutron]]></title>
-        <id>Neutron_org</id>
-        <link href="https://domanodes.com/blog/Neutron_org"/>
-        <updated>2022-12-02T18:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract platform secured]]></summary>
-        <content type="html"><![CDATA[<p>Smart Contract platform secured
-by Cosmos Hub</p><div><a class="twitter-timeline" href="https://twitter.com/Neutron_org" data-widget-id="TLContent" data-chrome="">Tweets by @Neutron_org</a></div>]]></content>
+        <summary type="html"><![CDATA[MY TWEETER]]></summary>
+        <content type="html"><![CDATA[<p>MY TWEETER</p><div><a class="twitter-timeline" href="https://twitter.com/domakyrylo" data-widget-id="TLContent" data-chrome="">Tweets by @domakyrylo</a></div>]]></content>
     </entry>
 </feed>
