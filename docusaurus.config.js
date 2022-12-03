@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Doma🏠Nodes',
-  tagline: 'Playground, created for learning and having fun',
+  tagline: 'Web3 and everything related.',
   url: 'https://domanodes.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -61,13 +61,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorials',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorials',
+          // },
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/doma2k',
             label: 'GitHub',
@@ -78,45 +78,49 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          // {
+          //   // title: 'Docs',
+          //   // items: [
+          //   //   // {
+          //   //   //   label: 'Tutorials',
+          //   //   //   to: '/docs/intro',
+          //   //   // },
+          //   // ],
+          // },
           {
-            title: 'Docs',
+            title: 'Contacts',
             items: [
-              {
-                label: 'Tutorials',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/users/17710466/kyrylo-doma',
+              // },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'discord.com/users/doma2k#4006',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/domakyrylo',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/domanodes',
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/doma2k',
-              },
-            ],
-          },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     // {
+          //     //   label: 'Blog',
+          //     //   to: '/blog',
+          //     // },
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/doma2k',
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Doma🏠Nodes, Inc.`,
       },

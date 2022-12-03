@@ -14,7 +14,7 @@
             <guid>SomeBlog</guid>
             <pubDate>Fri, 02 Dec 2022 18:59:52 GMT</pubDate>
             <description><![CDATA[MY TWEETER]]></description>
-            <content:encoded><![CDATA[<p>MY TWEETER</p><div><a class="twitter-timeline" href="https://twitter.com/domakyrylo" data-widget-id="TLContent" data-chrome="">Tweets by @domakyrylo</a></div>]]></content:encoded>
+            <content:encoded><![CDATA[<p>MY TWEETER</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

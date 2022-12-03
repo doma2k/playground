@@ -6,7 +6,7 @@
     "items": [
         {
             "id": "SomeBlog",
-            "content_html": "<p>MY TWEETER</p><div><a class=\"twitter-timeline\" href=\"https://twitter.com/domakyrylo\" data-widget-id=\"TLContent\" data-chrome=\"\">Tweets by @domakyrylo</a></div>",
+            "content_html": "<p>MY TWEETER</p>",
             "url": "https://domanodes.com/blog/SomeBlog",
             "title": "SomeBlog",
             "summary": "MY TWEETER",
